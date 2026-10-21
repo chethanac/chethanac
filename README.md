@@ -58,6 +58,6 @@ QA Automation Engineer with **4.7 years of experience** in software quality assu
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=00c6eb" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=00c6eb" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chethanac&show_icons=true&theme=dark&hide_border=true&title_color=00c6eb" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethanac&layout=compact&theme=dark&hide_border=true&title_color=00c6eb" alt="Top Languages" width="48%" />
 </p>
