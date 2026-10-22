@@ -8,7 +8,7 @@ QA Automation Engineer with **4.7 years of experience** in software quality assu
 
 ### 💻 Connect & Reach Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethana-C-K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chethana-c-k-964a771b1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethana-C-K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethana-c-k-964a771b1)
 [![Email](https://img.shields.io/badge/Email-chethanack77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethanack77@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bengaluru,_India-107C41?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Experience](https://img.shields.io/badge/Experience-4%2B_Years-blueviolet?style=for-the-badge)](#)
